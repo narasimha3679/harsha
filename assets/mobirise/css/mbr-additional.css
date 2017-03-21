@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+
+
+
+
+
+
+#header2-0 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  text-align: left;
+}
+#header2-0 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1 .mbr-navbar__items a {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-6 .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-6 .mbr-article P {
+  font-family: 'Indie Flower', cursive;
+}
+#content5-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-family: 'Indie Flower', cursive;
+}
+#content5-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-article {
+  color: #fff;
+}
+#features1-a .mbr-section-title .mbr-header__text {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#features1-a .mbr-section__col .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box2-f .mbr-header .mbr-header__text {
+  color: #252525;
+}
+#msg-box2-f .mbr-article {
+  color: #252525;
+}
+#contacts2-d P {
+  color: #000000;
+  text-align: center;
+}
+#social-buttons2-g .mbr-header__text {
+  color: #c1c1c1;
+}
+#footer1-m P {
+  color: #000000;
+}
